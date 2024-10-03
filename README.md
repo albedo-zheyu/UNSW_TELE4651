@@ -20,14 +20,14 @@ Includes weekly tutorial exercises and solutions.
 
 包括每周的辅导练习和解答。
 
-### Labs | 实验
+### Laboratory | 实验
 
 Houses lab-related files, including:
 
 存储与实验相关的文件，包含：
 
-Lab instructions | 实验说明
-Code for practical exercises | 实验代码
-Lab reports | 实验报告
+- Lab instructions | 实验说明
+- Code for practical exercises | 实验代码
+- Lab reports | 实验报告
 
 
